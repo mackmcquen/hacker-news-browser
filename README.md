@@ -11,4 +11,4 @@
 ### Functionality:
     This application accesses the 'Hacker News' Algolia API and displays a list of results sorted by relevance, then points, then number of comments.  The search term you enter applies to the story title of the search results.  You are able to click on a search result to be redirected to the corresponding url in a new tab.
 
-Have fun browsing Hacker News!
+## Have fun browsing Hacker News!
